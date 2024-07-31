@@ -1,0 +1,28 @@
+.hadr {
+  text-align: center;
+}
+
+table {
+  width: 100vw;
+  border: 5px solid rgb(107, 104, 104);
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+td {
+  border: 2px solid rgb(255, 252, 252);
+  height: 7vh;
+}
+
+.oneline {
+  background-color: darkolivegreen;
+}
+
+.secand {
+  background-color: coral;
+}
